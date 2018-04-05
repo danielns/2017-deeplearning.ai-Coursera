@@ -1,0 +1,6 @@
+# R files
+.Rproj.user
+.Rhistory
+.RData
+# Build files
+.ipynb_checkpoints
